@@ -21,13 +21,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2015-12-09 01:28:13</sys_created_on>
         <sys_id>ebae1590c390120068bd914522d3ae76</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2015-12-09 03:45:00</sys_updated_on>
+        <sys_updated_on>2015-12-09 03:49:26</sys_updated_on>
         <template/>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.4</version>
+        <version>1.0.5</version>
     </sys_app>
 </record_update>
